@@ -25,7 +25,7 @@ Step 4: Train and Predict
 
 Step 1: Get the data ready
 Download the dataset and unzip it. 
-Here I have only used 20 image folders from the dataset.
+Here I have only used 20 image folders out of 369 folders from the mentioned dataset. Also only training image folder is used. Validation folder not used while running the project.
 Install nibabel library to handle nii files (https://pypi.org/project/nibabel/)
 Scale all volumes (using MinMaxScaler).
 Combine the three non-native volumes (T2, T1CE and Flair) into a single multi-channel volume. 
