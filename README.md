@@ -1,5 +1,5 @@
 # Brain-Tumor-Segmentation-3D-U-net-model
-Dataset information:
+Dataset information: https://www.kaggle.com/awsaf49/brats2...
 Multimodal scans available as NIfTI files (.nii.gz) 
 
 Four 'channels' of information – 4 different volumes of the same region
