@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation-3D-U-net-model-
+# Brain-Tumor-Segmentation-3D-U-net-model
 Dataset information:
 Multimodal scans available as NIfTI files (.nii.gz) 
 
